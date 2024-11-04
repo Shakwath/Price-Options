@@ -1,17 +1,14 @@
-
 import './App.css'
-import DaisyNav from './components/DaisyNav/DaisyNav'
 import LineChart from './components/LineChart/LineChart'
+// import NavBar from './components/NavBar/NavBar'
 import Phones from './components/Phones/Phones'
- ''
 
 function App() {
 
   return (
     <>
-      <DaisyNav></DaisyNav>
-      <h1 className='text-5xl border-2'>Vite + React</h1>
-
+      {/* <DaisyNav></DaisyNav> */}
+      <h1 className='text-7xl bg-rose-600'>Vite + React</h1>
       <LineChart></LineChart>
       <Phones></Phones>
     </>
