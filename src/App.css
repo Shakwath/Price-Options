@@ -1,0 +1,27 @@
+/* Navbar component banabo 
+  --> const navbar create
+  --> object create
+  --> routes er jonno map krbo
+  --><nav>
+      {  routes.map(route => <li key={route.id}>
+        <a herf='route.path'>{route.name}</a></li>
+      }
+  --> app.jsx nav call krle list dekabe
+  -->nav bar reesponsive er jnno mid:flex
+  -->folder e link.jsx banabo
+  -->list ta link e banabo
+  -->propdash type install npm install
+  -->react icon install
+  -->import it 04
+  -->
+
+
+
+  -->Rechart  to draw card
+  -->Rechart.js npm install recharts
+  
+
+  -->Axios.js e giye ata npm install axios krbo]
+  --> ata fatch er insted
+  -->
+  */
